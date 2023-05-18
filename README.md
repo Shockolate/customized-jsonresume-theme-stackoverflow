@@ -5,6 +5,7 @@
 ## Notable Changes
 
 * Projects don't use the "GitHub repository" link.
+* Printing tweaks
 
 ## How to Start
 
