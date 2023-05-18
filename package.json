@@ -1,11 +1,11 @@
 {
-  "name": "@anthonyjdella/jsonresume-theme-anthonyjdella-stackoverflow",
+  "name": "@shockolate/jsonresume-theme-anthonyjdella-stackoverflow",
   "version": "1.0.8",
   "description": "Stack Overflow theme for JSON Resume",
-  "author": "Anthony Dellavecchia <leeznon@gmail.com>",
+  "author": "Ted Armstrong <theodorecarmstrong@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anthonyjdella/customized-jsonresume-theme-stackoverflow"
+    "url": "https://github.com/Shockolate/customized-jsonresume-theme-stackoverfloww"
   },
   "scripts": {
     "start": "resume serve --theme .",

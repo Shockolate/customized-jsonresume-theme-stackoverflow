@@ -1,18 +1,16 @@
 # Customized JSON Resume Theme: StackOverflow
 
-🖼️ This is a tweaked version of the [StackOverflow theme](https://github.com/phoinixi/jsonresume-theme-stackoverflow). Tweaked to fit my design preferences. Published on NPM and GitHub Registry.
+🖼️ This is a tweak of a [tweaked version](https://github.com/anthonyjdella/customized-jsonresume-theme-stackoverflow/) of the [StackOverflow theme](https://github.com/phoinixi/jsonresume-theme-stackoverflow). Tweaked to fit my design preferences. Published on NPM and GitHub Registry.
 
 ## Notable Changes
 
-* 2 Page version in PDF/printable mode 
-* Added sections for speaking and articles
-* Style changes
+* Projects don't use the "GitHub repository" link.
 
 ## Prerequisites
 
 To build and start the local server, it needs to use the cli command, which is custom cli I tweaked.
 
-`npm i @anthonyjdella/customized-resume-cli`
+`npm i @shockolate/customized-resume-cli`
 
 ## How to Start
 
