@@ -27,11 +27,11 @@
           {{#if startDate}}
 				  <span class="startDate">{{MY startDate}}</span>
           {{/if}}
-		  	{{#ifCond endDate '!==' 'present'}}
-				<span class="endDate">- {{MY endDate}}</span>
-			{{else}}
-				<span class="endDate">- Present</span>
-			{{/ifCond}}
+		  	{{#ifCond endDate}}
+				  <span class="endDate">- {{MY endDate}}</span>
+			  {{else}}
+				  <span class="endDate">- Present</span>
+			  {{/ifCond}}
 				</div>
 			</header>
 			{{/if}}
