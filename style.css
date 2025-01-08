@@ -846,7 +846,10 @@ blockquote {
   .fa-map-marker-alt:before {
     padding-left: 0.1em;
   }
-  #references-section {
+  #interests-section {
+    display: none;
+  }
+  #projects-section {
     display: none;
   }
 }

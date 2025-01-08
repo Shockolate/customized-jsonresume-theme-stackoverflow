@@ -5,7 +5,7 @@
   "author": "Ted Armstrong <theodorecarmstrong@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shockolate/customized-jsonresume-theme-stackoverfloww"
+    "url": "https://github.com/Shockolate/customized-jsonresume-theme-stackoverflow"
   },
   "scripts": {
     "start": "resume serve --theme .",
