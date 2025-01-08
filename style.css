@@ -573,7 +573,6 @@ blockquote {
   width: 10em;
 }
 
-
 #references .item {
   padding-left: 0.5em;
   border-left: 5px solid #ff6d1f;
@@ -703,10 +702,10 @@ blockquote {
     width: 8em;
   }
   #contact {
-    font-size: .85rem;
+    font-size: 0.85rem;
   }
   #profiles {
-    font-size: .85rem;
+    font-size: 0.85rem;
   }
   .section header .date {
     float: right;
@@ -717,16 +716,16 @@ blockquote {
   .writing-item {
     margin: 0 0 0 0 !important;
   }
-  .section:nth-child(n+8) {
+  .section:nth-child(n + 8) {
     display: none;
   }
-  #speaking .speaking-item:nth-child(n+4){
+  #speaking .speaking-item:nth-child(n + 4) {
     display: none;
   }
-  #projects .project-item:nth-child(n+4){
+  #projects .project-item:nth-child(n + 4) {
     display: none;
   }
-  #writing .writing-item:nth-child(n+4){
+  #writing .writing-item:nth-child(n + 4) {
     display: none;
   }
   #resume {
@@ -808,13 +807,13 @@ blockquote {
     font-size: 0.95em;
   }
   #skills .name {
-    font-size: 0.95em
+    font-size: 0.95em;
   }
   #skills .level {
-    font-size: 0.8em
+    font-size: 0.8em;
   }
   #interests .name {
-    font-size: 0.95em
+    font-size: 0.95em;
   }
   #skills .keywords::before {
     content: none;
@@ -846,5 +845,8 @@ blockquote {
   }
   .fa-map-marker-alt:before {
     padding-left: 0.1em;
+  }
+  #references-section {
+    display: none;
   }
 }
